@@ -1,2 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="
+#EXTINF:-1 tvg-id="Energeek" tvg-logo="https://image.roku.com/developer_channels/prod/70caebe37d8e62c2e0cbc25687adfe111700f3b1d31b29bfa99cd96a5fbee509.pgn"
+https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/playlist.m3u8
